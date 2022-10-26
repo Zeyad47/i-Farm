@@ -1,0 +1,8 @@
+node_modules
+
+# config file
+
+
+# Log files
+*.txt
+Section B/MysqlCon.java

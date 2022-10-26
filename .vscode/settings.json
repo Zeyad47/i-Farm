@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "db",
+        "DummyDataGeneration/Plants",
+        "DummyDataGeneration/Pesticides",
+        "DummyDataGeneration/Fertilizers",
+        "Section B"
+    ]
+}
