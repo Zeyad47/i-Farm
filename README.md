@@ -11,12 +11,6 @@ Traditionally, during the organic farm inspection, the inspectors will check the
 
 The certifying body has engaged a team of software developers to help the farmers and inspectors digitalize the activity logging and inspection process into a paperless solution. The certifying body also  concerns  about  the  software system’s scalabilityto  process  the  growing  amount  of  data concurrently when there are more farmers using the system in the future. 
 
-Team member:
+## Acknowledgment
 
-| Name  | Roles |
-| ------------- | ------------- |
-| Kisyok Indran A/L Veerasamy   | Team Leader   |
-| Muhammad Irfan bin Nasruddin   | Developer  |
-| Muhammad Hafiz bin Baharudin    | Developer  |
-| Fahad Aqeel Thakur    | Developer  |
-| Wong Wei Liang    | Developer  |
+My deepest respect and appreciation to Dr.Chiew Thiam Kian for helping me throughout this project as well as explaining the concepts of conncurrency in an interesting and intensice way.
